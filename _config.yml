@@ -23,7 +23,7 @@ repository               : "Kelvin-Al/Kelvin-Al.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "sunkai.jpg"
   name             : "Sunkai LYU"
   pronouns         : "he/him"  
   bio              : "PhD student in IEDA at HKUST, working on optimization and large language models."
