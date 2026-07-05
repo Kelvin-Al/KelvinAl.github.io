@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Ph.D. student in the Department of Industrial Engineering and Decision Analytics (IEDA) at the Hong Kong University of Science and Technology (HKUST). I received my Bachelor of Science degree in Biostatistics from the School of Mathematical Sciences at Peking University in 2026.
 
-My research is broadly motivated by **AI for Science**. Within this theme, I am particularly interested in **optimization**, **large language models**, and **statistical learning**. I have a strong preference for research with clear mathematical theory and interpretability, rather than purely observational findings.
+I am interested in **optimization**, **large language models**, and **statistical learning**. Also, **AI for science** aligns with my academic taste. I have a strong preference for research with clear mathematical theory and interpretability, rather than purely observational findings.
 
 I have a solid foundation in **statistics**, **computer science**, and **mathematics**, which enables me to engage in professional discussions and research across these areas. I am very open to related research directions and welcome opportunities for collaboration.
 
